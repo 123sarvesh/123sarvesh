@@ -1,56 +1,76 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+# Hi, I'm Sarvesh Gupta
 
-###
+**Full-Stack Developer — React/Angular • TypeScript • Java/Spring Boot • AWS | TDD, Design Patterns, Agile**
 
-<p align="left">My name is Sarvesh Gupta and I'm a Computer Science Student from California State University.</p>
+I build **enterprise-grade, scalable, high-performance web apps** using **JavaScript/TypeScript, React, Angular, HTML/CSS** on the front-end and **Java/Spring Boot/Node.js** on the back-end. I practice **Test-Driven Development (TDD)** and **design patterns**, and I work in **Agile** teams collaborating with UX, QA, and stakeholders. Comfortable with **Azure DevOps, Jira, Confluence**, and technical diagramming in **Miro/Draw.io**.
 
-###
+- 🔭 **Currently:** strengthening system design, TDD, and performance optimization.
+- 💼 **Open to:** Software Engineer roles (Full-Stack / Frontend / Backend).
+- 🌐 **Portfolio:** https://123sarvesh.github.io/Sarvesh-portfolio/
+- 📫 **Email:** sarveshjgupta@gmail.com
 
-<h2 align="left">About me</h2>
+---
 
-###
+## 🔹 Featured Projects
 
-<p align="left">📚 I'm currently learning Full Stack Development.</p>
-<p align="left"> let's connect</p>
+### 1) Scalable URL Shortener
+High-throughput URL shortener with efficient hashing, rate limiting, and caching. Deployed on AWS with autoscaling.
+- **Stack:** Java, Spring Boot, Redis, PostgreSQL, AWS, Docker, Kubernetes
+- **Highlights:** 60% latency reduction via Redis + query optimizations
+- **Links:** [Repo](https://github.com/123sarvesh/url-shortener) • [Case Study](https://123sarvesh.github.io/Sarvesh-portfolio/)
 
-###
+### 2) Real-Time Chat Application
+Real-time messaging (DMs, groups, media) with presence and read receipts. Horizontal scalability with containers.
+- **Stack:** Node.js, WebSockets, React.js, MongoDB, AWS S3
+- **Highlights:** JWT/OAuth auth • Production-ready error handling and retries
+- **Links:** [Repo](https://github.com/123sarvesh/realtime-chat-app) • [Demo/Visuals](https://123sarvesh.github.io/Sarvesh-portfolio/)
 
-<h2 align="left">I code with</h2>
+### 3) E-Commerce Platform + Recommendation Engine
+End-to-end commerce flows with order events, async workers, and ML recommendations.
+- **Stack:** Java, Spring Boot, React.js, MySQL, Redis, Python (ML), AWS
+- **Highlights:** Collaborative-filtering recos • CI/CD • Observability dashboards
+- **Links:** [Repo](https://github.com/123sarvesh/ecommerce-reco-engine) • [Case Study](https://123sarvesh.github.io/Sarvesh-portfolio/)
 
-###
+### 4) Python Data Pipeline & Analytics
+Airflow-based ETL processing API/log data, with Lambda triggers and dashboarding.
+- **Stack:** Python, Pandas, Airflow, AWS Lambda, PostgreSQL, Tableau
+- **Highlights:** Reliable ingestion • Transformations/aggregations • BI dashboards
+- **Links:** [Repo](https://github.com/123sarvesh/python-data-pipeline) • [Dashboard Walkthrough](https://123sarvesh.github.io/Sarvesh-portfolio/)
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="googlecloud logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opengl/opengl-original.svg" height="40" alt="opengl logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-</div>
+---
 
-###
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=123sarvesh&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=tokyonight&hide_border=true&order=2" height="150" alt="languages graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=123sarvesh&radius=16&theme=tokyo-night&area=true&order=5&hide_title=false&hide_border=true" height="300" alt="activity-graph graph"  />
-</div>
+## 🧰 Tech Stack
 
-###
+**Languages:** JavaScript, TypeScript, Java, Python, C++, Kotlin, SQL, NoSQL, HTML, CSS  
+**Frontend:** React.js, Angular, Redux/State Mgmt, Tailwind/SCSS  
+**Backend:** Node.js, Express.js, Spring Boot, REST APIs, GraphQL  
+**Cloud/DevOps:** AWS, Azure, Docker, Kubernetes, Git, CI/CD, Jenkins  
+**Databases:** PostgreSQL, MySQL, MongoDB, Redis  
+**Practices/Tools:** TDD, Design Patterns, Agile, Azure DevOps, Jira, Confluence, Miro, Draw.io, VS Code, IntelliJ
+
+<p>
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-ES6+-informational">
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-Types-informational">
+  <img alt="React" src="https://img.shields.io/badge/React-18-informational">
+  <img alt="Angular" src="https://img.shields.io/badge/Angular-Framework-informational">
+  <img alt="Spring Boot" src="https://img.shields.io/badge/Spring%20Boot-Backend-informational">
+  <img alt="AWS" src="https://img.shields.io/badge/AWS-Cloud-informational">
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-Containers-informational">
+  <img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-Orchestration-informational">
+</p>
+
+---
+
+## 🧑‍💻 How I Work
+
+- Start with **requirements** → write **tests first (TDD)** → design with **patterns** → build iteratively in **Agile sprints**.  
+- Use **code reviews**, CI/CD, and monitoring.  
+- Communicate clearly with **stakeholders, UX, and QA** to deliver maintainable and scalable solutions.
+
+---
+
+## 📬 Connect
+
+- 📧 Email: **sarveshjgupta@gmail.com**  
+- 🌐 Portfolio: **https://123sarvesh.github.io/Sarvesh-portfolio/**  
+- 🧑‍💻 GitHub: **https://github.com/123sarvesh**
