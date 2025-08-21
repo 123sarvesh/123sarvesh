@@ -42,12 +42,10 @@ Airflow-based ETL processing API/log data, with Lambda triggers and dashboarding
 ## 🧰 Tech Stack
 
 **Languages:** JavaScript, TypeScript, Java, Python, C++, Kotlin, SQL, NoSQL, HTML, CSS.
-
 **Frontend:** React.js, Angular, Redux/State Mgmt, Tailwind/SCSS.
-
-**Backend:** Node.js, Express.js, Spring Boot, REST APIs, GraphQL  
-**Cloud/DevOps:** AWS, Azure, Docker, Kubernetes, Git, CI/CD, Jenkins  
-**Databases:** PostgreSQL, MySQL, MongoDB, Redis  
+**Backend:** Node.js, Express.js, Spring Boot, REST APIs, GraphQL.  
+**Cloud/DevOps:** AWS, Azure, Docker, Kubernetes, Git, CI/CD, Jenkins.  
+**Databases:** PostgreSQL, MySQL, MongoDB, Redis.  
 **Practices/Tools:** TDD, Design Patterns, Agile, Azure DevOps, Jira, Confluence, Miro, Draw.io, VS Code, IntelliJ
 
 <p>
