@@ -16,7 +16,7 @@ I build **enterprise-grade, scalable, high-performance web apps** using **JavaSc
 ### 1) Scalable URL Shortener
 High-throughput URL shortener with efficient hashing, rate limiting, and caching. Deployed on AWS with autoscaling.
 - **Stack:** Java, Spring Boot, Redis, PostgreSQL, AWS, Docker, Kubernetes.
-- **Highlights:** 60% latency reduction via Redis + query optimizations
+- **Highlights:** 60% latency reduction via Redis + query optimizations.
 - **Links:** [Repo](https://github.com/123sarvesh/url-shortener) • [Case Study](https://123sarvesh.github.io/Sarvesh-portfolio/)
 
 ### 2) Real-Time Chat Application
