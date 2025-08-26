@@ -73,4 +73,4 @@ Airflow-based ETL processing API/log data, with Lambda triggers and dashboarding
 
 - 📧 Email: **sarveshjgupta@gmail.com**  
 - 🌐 Portfolio: **https://123sarvesh.github.io/Sarvesh-portfolio/**  
-- 🧑‍💻 GitHub: **https://github.com/123sarvesh**.
+- 🧑‍💻 GitHub: **https://github.com/123sarvesh**
