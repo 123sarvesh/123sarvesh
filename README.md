@@ -61,7 +61,7 @@ Airflow-based ETL processing API/log data, with Lambda triggers and dashboarding
 
 ---
 
-## 🧑‍💻 How I Work.
+## 🧑‍💻 How I Work
 
 - Start with **requirements** → write **tests first (TDD)** → design with **patterns** → build iteratively in **Agile sprints**.  
 - Use **code reviews**, CI/CD, and monitoring.  
