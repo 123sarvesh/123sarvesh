@@ -2,7 +2,7 @@
 
 **Full-Stack Developer — React/Angular • TypeScript • Java/Spring Boot • AWS | TDD, Design Patterns, Agile**
 
-I build **enterprise-grade, scalable, high-performance web apps** using **JavaScript/TypeScript, React, Angular, HTML/CSS** on the front-end and **Java/Spring Boot/Node.js** on the back-end. I practice **Test-Driven Development (TDD)** and **design patterns**, and I work in **Agile** teams collaborating with UX, QA, and stakeholders. Comfortable with **Azure DevOps, Jira, Confluence**, and technical diagramming in **Miro/Draw.io**.
+I build **enterprise grade, scalable, high-performance web apps** using **JavaScript/TypeScript, React, Angular, HTML/CSS** on the front-end and **Java/Spring Boot/Node.js** on the back-end. I practice **Test-Driven Development (TDD)** and **design patterns**, and I work in **Agile** teams collaborating with UX, QA, and stakeholders. Comfortable with **Azure DevOps, Jira, Confluence**, and technical diagramming in **Miro/Draw.io**.
 
 - 🔭 **Currently:** strengthening system design, TDD, and performance optimization.
 - 💼 **Open to:** Software Engineer roles (Full-Stack / Frontend / Backend).
