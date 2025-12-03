@@ -1,4 +1,4 @@
-# Hi, I am Sarvesh Gupta.
+# Hi, I am Sarvesh Gupta
 
 **Full-Stack Developer — React/Angular • TypeScript • Java/Spring Boot • AWS | TDD, Design Patterns, Agile**
 
